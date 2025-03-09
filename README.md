@@ -1,0 +1,1 @@
+LLM fine-tuning challenge for enhancing Qwen 2.5 3B for AI research QA. I'll guide you through the complete process step by step, including dataset creation, fine-tuning, quantization, evaluation, and documentation.
